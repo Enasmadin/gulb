@@ -1,0 +1,7 @@
+.concat {
+  height: 200px;
+  opacity: 0.5;
+  transform: rotate(80deg);
+  display: flex;
+  transition: all 0.3s ease-in-out;
+}
